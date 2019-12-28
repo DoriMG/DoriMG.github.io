@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Dori Grijseels</title>
+    <link>https://dorimg.github.io/project/</link>
+      <atom:link href="https://dorimg.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2019 20:25:47 +0000</lastBuildDate>
+    <image>
+      <url>https://dorimg.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://dorimg.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>You live in a mostly 2D world, but the map in your brain charts the places you’ve been in 3D</title>
+      <link>https://dorimg.github.io/project/3d_place_cells/</link>
+      <pubDate>Sun, 17 Nov 2019 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/3d_place_cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meet the colour-changing green forester moth: a living water vapour sensor</title>
+      <link>https://dorimg.github.io/project/colour_moth/</link>
+      <pubDate>Tue, 08 Oct 2019 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/colour_moth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“The Nemo Effect” doesn’t exist: Pixar movies increased clownfish googling, not clownfish purchasing</title>
+      <link>https://dorimg.github.io/project/nemo_dori/</link>
+      <pubDate>Wed, 04 Sep 2019 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/nemo_dori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On LGBT STEM Day: Why visibility of LGBTQI scientists is important</title>
+      <link>https://dorimg.github.io/project/lgbt_scientists_diva/</link>
+      <pubDate>Fri, 05 Jul 2019 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/lgbt_scientists_diva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where are all the trans scientists?</title>
+      <link>https://dorimg.github.io/project/trans_scientists_biochemist/</link>
+      <pubDate>Sat, 31 Mar 2018 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/trans_scientists_biochemist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Out and About STEM: Why visibility of LGBT scientists is important</title>
+      <link>https://dorimg.github.io/project/lgbt_scientists_biochemist/</link>
+      <pubDate>Wed, 14 Feb 2018 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/lgbt_scientists_biochemist/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

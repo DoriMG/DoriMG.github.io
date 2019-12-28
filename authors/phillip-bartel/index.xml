@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phillip Bartel | Dori Grijseels</title>
+    <link>https://dorimg.github.io/authors/phillip-bartel/</link>
+      <atom:link href="https://dorimg.github.io/authors/phillip-bartel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phillip Bartel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dorimg.github.io/img/icon-192.png</url>
+      <title>Phillip Bartel</title>
+      <link>https://dorimg.github.io/authors/phillip-bartel/</link>
+    </image>
+    
+    <item>
+      <title>Spikeling: A low-cost hardware implementation of a spiking neuron for neuroscience teaching and outreach</title>
+      <link>https://dorimg.github.io/publication/baden-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/publication/baden-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

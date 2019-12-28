@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lgbt | Dori Grijseels</title>
+    <link>https://dorimg.github.io/tags/lgbt/</link>
+      <atom:link href="https://dorimg.github.io/tags/lgbt/index.xml" rel="self" type="application/rss+xml" />
+    <description>lgbt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jul 2019 20:25:47 +0000</lastBuildDate>
+    <image>
+      <url>https://dorimg.github.io/img/icon-192.png</url>
+      <title>lgbt</title>
+      <link>https://dorimg.github.io/tags/lgbt/</link>
+    </image>
+    
+    <item>
+      <title>On LGBT STEM Day: Why visibility of LGBTQI scientists is important</title>
+      <link>https://dorimg.github.io/project/lgbt_scientists_diva/</link>
+      <pubDate>Fri, 05 Jul 2019 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/lgbt_scientists_diva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where are all the trans scientists?</title>
+      <link>https://dorimg.github.io/project/trans_scientists_biochemist/</link>
+      <pubDate>Sat, 31 Mar 2018 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/trans_scientists_biochemist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Out and About STEM: Why visibility of LGBT scientists is important</title>
+      <link>https://dorimg.github.io/project/lgbt_scientists_biochemist/</link>
+      <pubDate>Wed, 14 Feb 2018 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/lgbt_scientists_biochemist/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

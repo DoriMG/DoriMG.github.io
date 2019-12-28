@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kira Shaw | Dori Grijseels</title>
+    <link>https://dorimg.github.io/authors/kira-shaw/</link>
+      <atom:link href="https://dorimg.github.io/authors/kira-shaw/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kira Shaw</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dorimg.github.io/img/icon-192.png</url>
+      <title>Kira Shaw</title>
+      <link>https://dorimg.github.io/authors/kira-shaw/</link>
+    </image>
+    
+    <item>
+      <title>Hippocampus has lower oxygenation and weaker control of brain blood flow than cortex, due to microvascular differences</title>
+      <link>https://dorimg.github.io/publication/shaw-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/publication/shaw-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

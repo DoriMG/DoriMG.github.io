@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Dori Grijseels</title>
+    <link>https://dorimg.github.io/tags/</link>
+      <atom:link href="https://dorimg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2019 20:25:47 +0000</lastBuildDate>
+    <image>
+      <url>https://dorimg.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://dorimg.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>science writing</title>
+      <link>https://dorimg.github.io/tags/science-writing/</link>
+      <pubDate>Sun, 17 Nov 2019 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/tags/science-writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lgbt</title>
+      <link>https://dorimg.github.io/tags/lgbt/</link>
+      <pubDate>Fri, 05 Jul 2019 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/tags/lgbt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

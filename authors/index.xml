@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Dori Grijseels</title>
+    <link>https://dorimg.github.io/authors/</link>
+      <atom:link href="https://dorimg.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2019 21:25:30 +0000</lastBuildDate>
+    <image>
+      <url>https://dorimg.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://dorimg.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://dorimg.github.io/authors/admin/</link>
+      <pubDate>Fri, 27 Dec 2019 21:25:30 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD student in the &lt;a href=&#34;http://www.sussex.ac.uk/sussexneuroscience/study/4yearphd&#34;&gt;4-year PhD programme&lt;/a&gt; at Sussex University. I am doing my project in the &lt;a href=&#34;http://www.brainenergylab.com/&#34;&gt;Brain Energy Lab&lt;/a&gt; with Catherine Hall. I study place cells using two-photon microscopy and look how they respond to changes in a virtual reality environment.&lt;/p&gt;
+&lt;p&gt;Outside the lab I like to write about science and diversity and inclusion in STEM. I write for &lt;a href=&#34;https://massivesci.com/&#34;&gt;Massive Science&lt;/a&gt; and other outlets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Catherine N Hall</title>
+      <link>https://dorimg.github.io/authors/catherine-n-hall/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/catherine-n-hall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devin Clarke</title>
+      <link>https://dorimg.github.io/authors/devin-clarke/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/devin-clarke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dorieke M Grijseels</title>
+      <link>https://dorimg.github.io/authors/dorieke-m-grijseels/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/dorieke-m-grijseels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hans Crombag</title>
+      <link>https://dorimg.github.io/authors/hans-crombag/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/hans-crombag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katie Boyd</title>
+      <link>https://dorimg.github.io/authors/katie-boyd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/katie-boyd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kira Shaw</title>
+      <link>https://dorimg.github.io/authors/kira-shaw/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/kira-shaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Bell</title>
+      <link>https://dorimg.github.io/authors/laura-bell/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/laura-bell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orla Bonnar</title>
+      <link>https://dorimg.github.io/authors/orla-bonnar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/orla-bonnar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ben James</title>
+      <link>https://dorimg.github.io/authors/ben-james/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/ben-james/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dorieke Grijseels</title>
+      <link>https://dorimg.github.io/authors/dorieke-grijseels/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/dorieke-grijseels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leon Lagnado</title>
+      <link>https://dorimg.github.io/authors/leon-lagnado/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/leon-lagnado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maxime J Y Zimmermann</title>
+      <link>https://dorimg.github.io/authors/maxime-j-y-zimmermann/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/maxime-j-y-zimmermann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel Maravall</title>
+      <link>https://dorimg.github.io/authors/miguel-maravall/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/miguel-maravall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phillip Bartel</title>
+      <link>https://dorimg.github.io/authors/phillip-bartel/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/phillip-bartel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Euler</title>
+      <link>https://dorimg.github.io/authors/thomas-euler/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/thomas-euler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tom Baden</title>
+      <link>https://dorimg.github.io/authors/tom-baden/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/authors/tom-baden/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
