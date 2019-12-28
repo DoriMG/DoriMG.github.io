@@ -3,7 +3,7 @@
   <channel>
     <title>Dori Grijseels</title>
     <link>https://dorimg.github.io/</link>
-      <atom:link href="https://dorimg.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://dorimg.github.io/the_index.xml" rel="self" type="application/rss+xml" />
     <description>Dori Grijseels</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2019 21:25:30 +0000</lastBuildDate>
     <image>
