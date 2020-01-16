@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Dori Grijseels</title>
-    <link>https://dorimg.github.io/project/</link>
-      <atom:link href="https://dorimg.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Dori Grijseels</title>
+    <link>https://dorimg.github.io/</link>
+      <atom:link href="https://dorimg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dori Grijseels</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jan 2020 20:25:47 +0000</lastBuildDate>
     <image>
       <url>https://dorimg.github.io/img/icon-192.png</url>
-      <title>Projects</title>
-      <link>https://dorimg.github.io/project/</link>
+      <title>Dori Grijseels</title>
+      <link>https://dorimg.github.io/</link>
     </image>
     
     <item>
@@ -17,6 +17,22 @@
       <link>https://dorimg.github.io/project/hermit_crabs/</link>
       <pubDate>Thu, 09 Jan 2020 20:25:47 +0000</pubDate>
       <guid>https://dorimg.github.io/project/hermit_crabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You live in a mostly 2D world, but the map in your brain charts the places you’ve been in 3D</title>
+      <link>https://dorimg.github.io/talk/3d_place/</link>
+      <pubDate>Fri, 27 Dec 2019 21:25:30 +0000</pubDate>
+      <guid>https://dorimg.github.io/talk/3d_place/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Place Cells</title>
+      <link>https://dorimg.github.io/talk/3d_place_cells/</link>
+      <pubDate>Fri, 27 Dec 2019 21:13:20 +0000</pubDate>
+      <guid>https://dorimg.github.io/talk/3d_place_cells/</guid>
       <description></description>
     </item>
     
@@ -53,6 +69,14 @@
     </item>
     
     <item>
+      <title>Hippocampus has lower oxygenation and weaker control of brain blood flow than cortex, due to microvascular differences</title>
+      <link>https://dorimg.github.io/publication/shaw-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/publication/shaw-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Where are all the trans scientists?</title>
       <link>https://dorimg.github.io/project/trans_scientists_biochemist/</link>
       <pubDate>Sat, 31 Mar 2018 20:25:47 +0000</pubDate>
@@ -65,6 +89,14 @@
       <link>https://dorimg.github.io/project/lgbt_scientists_biochemist/</link>
       <pubDate>Wed, 14 Feb 2018 20:25:47 +0000</pubDate>
       <guid>https://dorimg.github.io/project/lgbt_scientists_biochemist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spikeling: A low-cost hardware implementation of a spiking neuron for neuroscience teaching and outreach</title>
+      <link>https://dorimg.github.io/publication/baden-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://dorimg.github.io/publication/baden-2018/</guid>
       <description></description>
     </item>
     
