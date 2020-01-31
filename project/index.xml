@@ -5,7 +5,7 @@
     <link>https://dorimg.github.io/project/</link>
       <atom:link href="https://dorimg.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jan 2020 20:25:47 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 20:25:47 +0000</lastBuildDate>
     <image>
       <url>https://dorimg.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Hermit crabs are using old bottle caps and plastic as shells — and it’s killing them slowly</title>
-      <link>https://dorimg.github.io/project/hermit_crabs/</link>
-      <pubDate>Thu, 09 Jan 2020 20:25:47 +0000</pubDate>
-      <guid>https://dorimg.github.io/project/hermit_crabs/</guid>
+      <title>My cat’s coat is mostly white with dark tabby patches. What’s going on?</title>
+      <link>https://dorimg.github.io/project/cat_genetics/</link>
+      <pubDate>Thu, 30 Jan 2020 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/cat_genetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Specialized nerves let squid tentacles strike with lightning speed</title>
       <link>https://dorimg.github.io/project/neurons_squid/</link>
-      <pubDate>Thu, 09 Jan 2020 20:25:47 +0000</pubDate>
+      <pubDate>Sat, 18 Jan 2020 20:25:47 +0000</pubDate>
       <guid>https://dorimg.github.io/project/neurons_squid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hermit crabs are using old bottle caps and plastic as shells — and it’s killing them slowly</title>
+      <link>https://dorimg.github.io/project/hermit_crabs/</link>
+      <pubDate>Thu, 09 Jan 2020 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/hermit_crabs/</guid>
       <description></description>
     </item>
     
