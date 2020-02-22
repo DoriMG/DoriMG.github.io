@@ -5,12 +5,28 @@
     <link>https://dorimg.github.io/</link>
       <atom:link href="https://dorimg.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Dori Grijseels</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 20:25:47 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Feb 2020 20:25:47 +0000</lastBuildDate>
     <image>
       <url>https://dorimg.github.io/img/icon-192.png</url>
       <title>Dori Grijseels</title>
       <link>https://dorimg.github.io/</link>
     </image>
+    
+    <item>
+      <title>On #WorldPangolinDay, we celebrate this roly-poly scaly anteater, one of the world’s most trafficked mammals</title>
+      <link>https://dorimg.github.io/project/pangolins/</link>
+      <pubDate>Sat, 15 Feb 2020 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/pangolins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your brain isn’t the same in virtual reality as it is in the real world</title>
+      <link>https://dorimg.github.io/project/vr_research/</link>
+      <pubDate>Sun, 09 Feb 2020 20:25:47 +0000</pubDate>
+      <guid>https://dorimg.github.io/project/vr_research/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fish use “blood-doping” to survive in icy water</title>
